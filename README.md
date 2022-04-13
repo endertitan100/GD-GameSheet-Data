@@ -6,4 +6,3 @@ ActualFileLocation/ImageName:{Position,Size}\
 
  
  ## This is useful if you want to access the Geometry Dash Sprite Sheets more easily than trying to use plists
- More Sprite Sheets (Comming Soon)
