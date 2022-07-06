@@ -2,10 +2,7 @@
 
 I wrote a script to genarate these from the Geometry Dash plist files \
 Organised in the format: \
-ActualFileLocation/ImageName:{Position,Size}
+ActualFileLocation/ImageName:{Position,Size,Offset}
 
- 
- ## Update With Sprite Offset Soon
-
- This is useful if you want to access the Geometry Dash Sprite Sheets more easily than trying to use plists
+This is useful if you want to access the Geometry Dash Sprite Sheets more easily than trying to use plists
 	
