@@ -37,7 +37,7 @@ def ConvFile(File):
                 o_End = u_Offset[i].find("}")
                 offset = u_Offset[i][0:o_End]
                 
-                FName = File[0:len(File)-6]
+                FName = File[3:len(File)-6]
                 Converted[FName+"/"+title] = {"Positon":{},"Size":{},"Offset":{}}
                 Converted[FName+"/"+title]["Positon"] = pos.split(",")
                 Converted[FName+"/"+title]["Size"] = size.split(",")
@@ -45,7 +45,7 @@ def ConvFile(File):
                 
         return Converted
 
-Dirs = {"SD","HD","UHD"}
+Dirs = {"LD","MD","HD"}
 
 for Dir in Dirs: 
         Final = {}
@@ -53,6 +53,10 @@ for Dir in Dirs:
                 Final = Final | ConvFile(Dir+"/"+File)
                 print(File +" Converted Successfully")
 
+        print("-------------------------")
+        print(Dir+" Converted Successfully")
+        print("-------------------------")
+
         f = open(Dir+"_GameSheet.json","w")
-        f.write(json.dumps(Final,sort_keys=True, indent=4))
+        f.write(json.dumps(Final, indent=4))
         f.close()
