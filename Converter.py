@@ -1,9 +1,8 @@
 import json
 import os
 
-def ToJson(Dir,Converted):
+def ToJson(Converted):
         jsonString = "{\n"
-        print(Converted)
         for Item in Converted:
                 FName = Converted[Item]
                 jsonString += '"'+Item+'":{'
@@ -65,7 +64,7 @@ for Dir in Dirs:
                 Final = Final | ConvFile(Dir+"/"+File)
                 print(File +" Converted Successfully")
 
-        Out = ToJson(Dir,Final)
+        Out = ToJson(Final)
 
         print("-------------------------")
         print(Dir+" Converted Successfully")
