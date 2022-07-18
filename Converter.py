@@ -1,6 +1,18 @@
 import json
 import os
 
+def ToJson(Dir,Converted):
+        jsonString = "{\n"
+        print(Converted)
+        for Item in Converted:
+                FName = Converted[Item]
+                jsonString += '"'+Item+'":{'
+                jsonString += '"Position":['+FName["Position"][0]+","+FName["Position"][1]+"],"
+                jsonString += '"Size":['+FName["Size"][0]+","+FName["Size"][1]+"],"
+                jsonString += '"Offset":['+FName["Offset"][0]+","+FName["Offset"][1]+"]},\n"
+        jsonString = jsonString[0:len(jsonString)-2] + "\n}"
+        return jsonString
+
 def ConvFile(File):
         f = open(File)
         fData = f.read()
@@ -38,14 +50,14 @@ def ConvFile(File):
                 offset = u_Offset[i][0:o_End]
                 
                 FName = File[3:len(File)-6]
-                Converted[FName+"/"+title] = {"Positon":{},"Size":{},"Offset":{}}
-                Converted[FName+"/"+title]["Positon"] = pos.split(",")
+                Converted[FName+"/"+title] = {"Position":[],"Size":[],"Offset":[]}
+                Converted[FName+"/"+title]["Position"] = pos.split(",")
                 Converted[FName+"/"+title]["Size"] = size.split(",")
                 Converted[FName+"/"+title]["Offset"] = offset.split(",")
                 
         return Converted
 
-Dirs = {"LD","MD","HD"}
+Dirs = {"LD","MD","HD"} 
 
 for Dir in Dirs: 
         Final = {}
@@ -53,10 +65,12 @@ for Dir in Dirs:
                 Final = Final | ConvFile(Dir+"/"+File)
                 print(File +" Converted Successfully")
 
+        Out = ToJson(Dir,Final)
+
         print("-------------------------")
         print(Dir+" Converted Successfully")
         print("-------------------------")
 
         f = open(Dir+"_GameSheet.json","w")
-        f.write(json.dumps(Final, indent=4))
+        f.write(Out)
         f.close()
