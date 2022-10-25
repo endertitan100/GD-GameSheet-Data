@@ -9,6 +9,7 @@ def ToJson(Converted):
                 jsonString += '"Position":['+FName["Position"][0]+","+FName["Position"][1]+"],"
                 jsonString += '"Size":['+FName["Size"][0]+","+FName["Size"][1]+"],"
                 jsonString += '"Offset":['+FName["Offset"][0]+","+FName["Offset"][1]+"]},\n"
+                
         jsonString = jsonString[0:len(jsonString)-2] + "\n}"
         return jsonString
 
