@@ -15,9 +15,9 @@
                 <key>spriteSourceSize</key>
                 <string>{360,124}</string>
                 <key>textureRect</key>
-                <string>{{1,3562},{356,118}}</string>
+                <string>{{1,363},{356,118}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>GJ_logo_001.png</key>
             <dict>
@@ -30,9 +30,9 @@
                 <key>spriteSourceSize</key>
                 <string>{1716,208}</string>
                 <key>textureRect</key>
-                <string>{{1,585},{1702,194}}</string>
+                <string>{{196,1},{1702,194}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>GJ_md_001.png</key>
             <dict>
@@ -45,9 +45,9 @@
                 <key>spriteSourceSize</key>
                 <string>{748,154}</string>
                 <key>textureRect</key>
-                <string>{{1,2824},{736,140}}</string>
+                <string>{{359,355},{736,140}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>RobTopLogoBig_001.png</key>
             <dict>
@@ -60,9 +60,54 @@
                 <key>spriteSourceSize</key>
                 <string>{592,222}</string>
                 <key>textureRect</key>
-                <string>{{1,1},{582,204}}</string>
+                <string>{{1381,197},{582,204}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>cocos2DxLogo.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{360,96}</string>
+                <key>spriteSourceSize</key>
+                <string>{360,96}</string>
+                <key>textureRect</key>
+                <string>{{1,1},{360,96}}</string>
                 <key>textureRotated</key>
                 <true/>
+            </dict>
+            <key>fmodLogo.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{360,95}</string>
+                <key>spriteSourceSize</key>
+                <string>{360,95}</string>
+                <key>textureRect</key>
+                <string>{{99,1},{360,95}}</string>
+                <key>textureRotated</key>
+                <true/>
+            </dict>
+            <key>gj_subzeroLogo_001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{7,-7}</string>
+                <key>spriteSize</key>
+                <string>{648,156}</string>
+                <key>spriteSourceSize</key>
+                <string>{662,170}</string>
+                <key>textureRect</key>
+                <string>{{196,197},{648,156}}</string>
+                <key>textureRotated</key>
+                <false/>
             </dict>
             <key>gj_worldLogo_001.png</key>
             <dict>
@@ -75,9 +120,9 @@
                 <key>spriteSourceSize</key>
                 <string>{547,168}</string>
                 <key>textureRect</key>
-                <string>{{1,2289},{533,156}}</string>
+                <string>{{846,197},{533,156}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
         </dict>
         <key>metadata</key>
@@ -85,15 +130,15 @@
             <key>format</key>
             <integer>3</integer>
             <key>pixelFormat</key>
-            <string>RGBA4444</string>
+            <string>RGBA8888</string>
             <key>premultiplyAlpha</key>
             <false/>
             <key>realTextureFileName</key>
             <string>GJ_LaunchSheet-uhd.png</string>
             <key>size</key>
-            <string>{206,3919}</string>
+            <string>{1964,496}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:d81614112b2b21e163064ab207678ab0:390f5f978c473cf11002d32983f3ee46:bc2caf3178ecdc5f70cbf6a8b499a4ef$</string>
+            <string>$TexturePacker:SmartUpdate:71d38a9ac19456aaef500614835d0efc:a121b0f209e6a62e181364263d8fb6e9:7d5c3afd3b92bdb6b931d2f277b34c00$</string>
             <key>textureFileName</key>
             <string>GJ_LaunchSheet-uhd.png</string>
         </dict>

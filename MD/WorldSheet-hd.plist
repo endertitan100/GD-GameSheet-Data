@@ -11,11 +11,11 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{16,10}</string>
+                <string>{14,9}</string>
                 <key>spriteSourceSize</key>
-                <string>{16,10}</string>
+                <string>{14,9}</string>
                 <key>textureRect</key>
-                <string>{{1,963},{16,10}}</string>
+                <string>{{968,1},{14,9}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -24,13 +24,13 @@
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
-                <string>{0,0}</string>
+                <string>{5,0}</string>
                 <key>spriteSize</key>
-                <string>{880,413}</string>
+                <string>{870,413}</string>
                 <key>spriteSourceSize</key>
                 <string>{880,413}</string>
                 <key>textureRect</key>
-                <string>{{1,1},{880,413}}</string>
+                <string>{{1,1},{870,413}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -45,7 +45,7 @@
                 <key>spriteSourceSize</key>
                 <string>{840,548}</string>
                 <key>textureRect</key>
-                <string>{{452,1},{840,548}}</string>
+                <string>{{417,1},{840,548}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -54,13 +54,13 @@
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
-                <string>{2,-2}</string>
+                <string>{2,-1}</string>
                 <key>spriteSize</key>
-                <string>{448,76}</string>
+                <string>{447,77}</string>
                 <key>spriteSourceSize</key>
-                <string>{452,80}</string>
+                <string>{451,79}</string>
                 <key>textureRect</key>
-                <string>{{1,884},{448,76}}</string>
+                <string>{{1,874},{447,77}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -69,13 +69,13 @@
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
-                <string>{2,-2}</string>
+                <string>{1,-1}</string>
                 <key>spriteSize</key>
-                <string>{534,68}</string>
+                <string>{535,69}</string>
                 <key>spriteSourceSize</key>
-                <string>{538,72}</string>
+                <string>{537,71}</string>
                 <key>textureRect</key>
-                <string>{{452,844},{534,68}}</string>
+                <string>{{451,844},{535,69}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -84,15 +84,15 @@
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
-                <string>{-5,12}</string>
+                <string>{-4,12}</string>
                 <key>spriteSize</key>
-                <string>{62,60}</string>
+                <string>{61,58}</string>
                 <key>spriteSourceSize</key>
-                <string>{72,84}</string>
+                <string>{69,82}</string>
                 <key>textureRect</key>
-                <string>{{452,915},{62,60}}</string>
+                <string>{{451,916},{61,58}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
             <key>worldLevelBtn_locked_001.png</key>
             <dict>
@@ -105,7 +105,7 @@
                 <key>spriteSourceSize</key>
                 <string>{50,46}</string>
                 <key>textureRect</key>
-                <string>{{517,915},{50,40}}</string>
+                <string>{{512,916},{50,40}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -115,15 +115,15 @@
             <key>format</key>
             <integer>3</integer>
             <key>pixelFormat</key>
-            <string>RGBA4444</string>
+            <string>RGBA8888</string>
             <key>premultiplyAlpha</key>
             <false/>
             <key>realTextureFileName</key>
             <string>WorldSheet-hd.png</string>
             <key>size</key>
-            <string>{1001,976}</string>
+            <string>{987,978}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:fef97fb2d77bf8552229993c11fb2fff:db6cdd91dee993bb1aaf871b3389805e:1f2c487a29fed75430ca63a242a20b91$</string>
+            <string>$TexturePacker:SmartUpdate:4f2f363854e4cbf43fd0457c115d67f7:c003489d47b45c1734a889bfa437a684:0ba44a9c151ff47bb96f8020f15be208$</string>
             <key>textureFileName</key>
             <string>WorldSheet-hd.png</string>
         </dict>

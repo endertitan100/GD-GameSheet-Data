@@ -11,11 +11,11 @@
                 <key>spriteOffset</key>
                 <string>{-1,1}</string>
                 <key>spriteSize</key>
-                <string>{226,254}</string>
+                <string>{220,245}</string>
                 <key>spriteSourceSize</key>
-                <string>{230,258}</string>
+                <string>{222,247}</string>
                 <key>textureRect</key>
-                <string>{{656,1},{226,254}}</string>
+                <string>{{609,1},{220,245}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -24,13 +24,13 @@
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
-                <string>{-7,35}</string>
+                <string>{-15,16}</string>
                 <key>spriteSize</key>
-                <string>{652,570}</string>
+                <string>{605,532}</string>
                 <key>spriteSourceSize</key>
-                <string>{684,640}</string>
+                <string>{637,576}</string>
                 <key>textureRect</key>
-                <string>{{1,1},{652,570}}</string>
+                <string>{{1,1},{605,532}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -40,15 +40,15 @@
             <key>format</key>
             <integer>3</integer>
             <key>pixelFormat</key>
-            <string>RGBA4444</string>
+            <string>RGBA8888</string>
             <key>premultiplyAlpha</key>
             <false/>
             <key>realTextureFileName</key>
             <string>DungeonSheet-hd.png</string>
             <key>size</key>
-            <string>{883,572}</string>
+            <string>{830,534}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:6506a477a5fe94c2174016c8494c17bd:363eaa01fbe330733ec1026b1e232543:39c8688f9d1d3bc4272b59a83a444a6e$</string>
+            <string>$TexturePacker:SmartUpdate:8270366d52a083de5268ba800ebee4b6:63b4d4d9ef74b82d0352b7456c39cc52:6d4e4a00e843240c5782a23349fc641d$</string>
             <key>textureFileName</key>
             <string>DungeonSheet-hd.png</string>
         </dict>

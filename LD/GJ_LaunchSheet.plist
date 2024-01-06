@@ -15,7 +15,7 @@
                 <key>spriteSourceSize</key>
                 <string>{90,31}</string>
                 <key>textureRect</key>
-                <string>{{1,1},{90,31}}</string>
+                <string>{{1,53},{90,31}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -26,11 +26,11 @@
                 <key>spriteOffset</key>
                 <string>{1,-1}</string>
                 <key>spriteSize</key>
-                <string>{428,51}</string>
+                <string>{427,50}</string>
                 <key>spriteSourceSize</key>
-                <string>{430,53}</string>
+                <string>{429,52}</string>
                 <key>textureRect</key>
-                <string>{{34,1},{428,51}}</string>
+                <string>{{1,1},{427,50}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -41,11 +41,11 @@
                 <key>spriteOffset</key>
                 <string>{1,-1}</string>
                 <key>spriteSize</key>
-                <string>{186,37}</string>
+                <string>{185,37}</string>
                 <key>spriteSourceSize</key>
-                <string>{188,39}</string>
+                <string>{187,39}</string>
                 <key>textureRect</key>
-                <string>{{321,54},{186,37}}</string>
+                <string>{{86,109},{185,37}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -54,13 +54,58 @@
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
-                <string>{1,-2}</string>
+                <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{148,55}</string>
+                <string>{148,54}</string>
                 <key>spriteSourceSize</key>
-                <string>{150,61}</string>
+                <string>{148,56}</string>
                 <key>textureRect</key>
-                <string>{{34,54},{148,55}}</string>
+                <string>{{86,53},{148,54}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>cocos2DxLogo.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{90,24}</string>
+                <key>spriteSourceSize</key>
+                <string>{90,24}</string>
+                <key>textureRect</key>
+                <string>{{34,53},{90,24}}</string>
+                <key>textureRotated</key>
+                <true/>
+            </dict>
+            <key>fmodLogo.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{90,24}</string>
+                <key>spriteSourceSize</key>
+                <string>{90,24}</string>
+                <key>textureRect</key>
+                <string>{{60,53},{90,24}}</string>
+                <key>textureRotated</key>
+                <true/>
+            </dict>
+            <key>gj_subzeroLogo_001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{1,-1}</string>
+                <key>spriteSize</key>
+                <string>{164,41}</string>
+                <key>spriteSourceSize</key>
+                <string>{166,43}</string>
+                <key>textureRect</key>
+                <string>{{236,53},{164,41}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -71,11 +116,11 @@
                 <key>spriteOffset</key>
                 <string>{1,-1}</string>
                 <key>spriteSize</key>
-                <string>{135,41}</string>
+                <string>{135,40}</string>
                 <key>spriteSourceSize</key>
-                <string>{137,43}</string>
+                <string>{137,42}</string>
                 <key>textureRect</key>
-                <string>{{184,54},{135,41}}</string>
+                <string>{{273,96},{135,40}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -85,15 +130,15 @@
             <key>format</key>
             <integer>3</integer>
             <key>pixelFormat</key>
-            <string>RGBA4444</string>
+            <string>RGBA8888</string>
             <key>premultiplyAlpha</key>
             <false/>
             <key>realTextureFileName</key>
             <string>GJ_LaunchSheet.png</string>
             <key>size</key>
-            <string>{508,110}</string>
+            <string>{429,147}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:9d5a0963f12a57a05e8c53fba0c64f61:439e83915d19735f4384dfc8c61b3047:155d22e7fafe88a218a4f358cdc9d221$</string>
+            <string>$TexturePacker:SmartUpdate:71d38a9ac19456aaef500614835d0efc:a121b0f209e6a62e181364263d8fb6e9:7d5c3afd3b92bdb6b931d2f277b34c00$</string>
             <key>textureFileName</key>
             <string>GJ_LaunchSheet.png</string>
         </dict>

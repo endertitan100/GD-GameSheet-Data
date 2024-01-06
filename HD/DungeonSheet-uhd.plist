@@ -40,15 +40,15 @@
             <key>format</key>
             <integer>3</integer>
             <key>pixelFormat</key>
-            <string>RGBA4444</string>
+            <string>RGBA8888</string>
             <key>premultiplyAlpha</key>
             <false/>
             <key>realTextureFileName</key>
             <string>DungeonSheet-uhd.png</string>
             <key>size</key>
-            <string>{1652,1066}</string>
+            <string>{1651,1066}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:d857211afd03be397b5ed6a417b26a7a:63b4d4d9ef74b82d0352b7456c39cc52:cae41466f7e61d9fdc95da9265b3e750$</string>
+            <string>$TexturePacker:SmartUpdate:8270366d52a083de5268ba800ebee4b6:63b4d4d9ef74b82d0352b7456c39cc52:6d4e4a00e843240c5782a23349fc641d$</string>
             <key>textureFileName</key>
             <string>DungeonSheet-uhd.png</string>
         </dict>

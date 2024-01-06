@@ -115,7 +115,7 @@
             <key>format</key>
             <integer>3</integer>
             <key>pixelFormat</key>
-            <string>RGBA4444</string>
+            <string>RGBA8888</string>
             <key>premultiplyAlpha</key>
             <false/>
             <key>realTextureFileName</key>
@@ -123,7 +123,7 @@
             <key>size</key>
             <string>{1938,1963}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:61080a688765eb477069561c37c397ea:c003489d47b45c1734a889bfa437a684:b12c23c5408b61d4171f31592f3f97c8$</string>
+            <string>$TexturePacker:SmartUpdate:4f2f363854e4cbf43fd0457c115d67f7:c003489d47b45c1734a889bfa437a684:0ba44a9c151ff47bb96f8020f15be208$</string>
             <key>textureFileName</key>
             <string>WorldSheet-uhd.png</string>
         </dict>

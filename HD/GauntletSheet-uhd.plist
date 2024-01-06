@@ -4,6 +4,21 @@
     <dict>
         <key>frames</key>
         <dict>
+            <key>gauntletLock_001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{3,-25}</string>
+                <key>spriteSize</key>
+                <string>{76,90}</string>
+                <key>spriteSourceSize</key>
+                <string>{82,140}</string>
+                <key>textureRect</key>
+                <string>{{1502,258},{76,90}}</string>
+                <key>textureRotated</key>
+                <true/>
+            </dict>
             <key>island_bonus_001.png</key>
             <dict>
                 <key>aliases</key>
@@ -15,22 +30,7 @@
                 <key>spriteSourceSize</key>
                 <string>{237,250}</string>
                 <key>textureRect</key>
-                <string>{{733,397},{237,248}}</string>
-                <key>textureRotated</key>
-                <false/>
-            </dict>
-            <key>island_bonus_locked_001.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,1}</string>
-                <key>spriteSize</key>
-                <string>{237,248}</string>
-                <key>spriteSourceSize</key>
-                <string>{237,250}</string>
-                <key>textureRect</key>
-                <string>{{728,646},{237,248}}</string>
+                <string>{{500,1694},{237,248}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -45,22 +45,7 @@
                 <key>spriteSourceSize</key>
                 <string>{236,244}</string>
                 <key>textureRect</key>
-                <string>{{238,925},{236,240}}</string>
-                <key>textureRotated</key>
-                <false/>
-            </dict>
-            <key>island_chaos_locked_001.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,2}</string>
-                <key>spriteSize</key>
-                <string>{236,240}</string>
-                <key>spriteSourceSize</key>
-                <string>{236,244}</string>
-                <key>textureRect</key>
-                <string>{{957,1121},{236,240}}</string>
+                <string>{{1498,1553},{236,240}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -75,24 +60,9 @@
                 <key>spriteSourceSize</key>
                 <string>{237,244}</string>
                 <key>textureRect</key>
-                <string>{{1204,882},{237,232}}</string>
+                <string>{{996,1760},{237,232}}</string>
                 <key>textureRotated</key>
-                <true/>
-            </dict>
-            <key>island_crystal_locked_001.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,-6}</string>
-                <key>spriteSize</key>
-                <string>{237,232}</string>
-                <key>spriteSourceSize</key>
-                <string>{237,244}</string>
-                <key>textureRect</key>
-                <string>{{1194,1121},{237,232}}</string>
-                <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>island_death_001.png</key>
             <dict>
@@ -105,24 +75,9 @@
                 <key>spriteSourceSize</key>
                 <string>{236,320}</string>
                 <key>textureRect</key>
-                <string>{{239,132},{236,274}}</string>
+                <string>{{1312,1300},{236,274}}</string>
                 <key>textureRotated</key>
-                <false/>
-            </dict>
-            <key>island_death_locked_001.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,23}</string>
-                <key>spriteSize</key>
-                <string>{236,274}</string>
-                <key>spriteSourceSize</key>
-                <string>{236,320}</string>
-                <key>textureRect</key>
-                <string>{{1,682},{236,274}}</string>
-                <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
             <key>island_demon_001.png</key>
             <dict>
@@ -135,22 +90,7 @@
                 <key>spriteSourceSize</key>
                 <string>{235,258}</string>
                 <key>textureRect</key>
-                <string>{{239,674},{235,250}}</string>
-                <key>textureRotated</key>
-                <false/>
-            </dict>
-            <key>island_demon_locked_001.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,4}</string>
-                <key>spriteSize</key>
-                <string>{235,250}</string>
-                <key>spriteSourceSize</key>
-                <string>{235,258}</string>
-                <key>textureRect</key>
-                <string>{{475,873},{235,250}}</string>
+                <string>{{1004,1524},{235,250}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -165,22 +105,7 @@
                 <key>spriteSourceSize</key>
                 <string>{235,282}</string>
                 <key>textureRect</key>
-                <string>{{239,407},{235,266}}</string>
-                <key>textureRotated</key>
-                <false/>
-            </dict>
-            <key>island_doom_locked_001.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,8}</string>
-                <key>spriteSize</key>
-                <string>{235,266}</string>
-                <key>spriteSourceSize</key>
-                <string>{235,282}</string>
-                <key>textureRect</key>
-                <string>{{1,957},{235,266}}</string>
+                <string>{{515,1427},{235,266}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -195,22 +120,7 @@
                 <key>spriteSourceSize</key>
                 <string>{238,242}</string>
                 <key>textureRect</key>
-                <string>{{475,1109},{238,242}}</string>
-                <key>textureRotated</key>
-                <false/>
-            </dict>
-            <key>island_fire_locked_001.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{238,242}</string>
-                <key>spriteSourceSize</key>
-                <string>{238,242}</string>
-                <key>textureRect</key>
-                <string>{{714,1121},{238,242}}</string>
+                <string>{{1255,1537},{238,242}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -225,24 +135,9 @@
                 <key>spriteSourceSize</key>
                 <string>{238,226}</string>
                 <key>textureRect</key>
-                <string>{{977,882},{238,226}}</string>
+                <string>{{1735,1553},{238,226}}</string>
                 <key>textureRotated</key>
-                <true/>
-            </dict>
-            <key>island_ice_locked_001.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{238,226}</string>
-                <key>spriteSourceSize</key>
-                <string>{238,226}</string>
-                <key>textureRect</key>
-                <string>{{1215,629},{238,226}}</string>
-                <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>island_lava_001.png</key>
             <dict>
@@ -255,22 +150,7 @@
                 <key>spriteSourceSize</key>
                 <string>{239,266}</string>
                 <key>textureRect</key>
-                <string>{{476,132},{239,264}}</string>
-                <key>textureRotated</key>
-                <false/>
-            </dict>
-            <key>island_lava_locked_001.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,1}</string>
-                <key>spriteSize</key>
-                <string>{239,264}</string>
-                <key>spriteSourceSize</key>
-                <string>{239,266}</string>
-                <key>textureRect</key>
-                <string>{{716,132},{239,264}}</string>
+                <string>{{1,1455},{239,264}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -285,24 +165,9 @@
                 <key>spriteSourceSize</key>
                 <string>{237,256}</string>
                 <key>textureRect</key>
-                <string>{{475,635},{237,252}}</string>
+                <string>{{751,1471},{237,252}}</string>
                 <key>textureRotated</key>
                 <true/>
-            </dict>
-            <key>island_magic_locked_001.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,2}</string>
-                <key>spriteSize</key>
-                <string>{237,252}</string>
-                <key>spriteSourceSize</key>
-                <string>{237,256}</string>
-                <key>textureRect</key>
-                <string>{{977,629},{237,252}}</string>
-                <key>textureRotated</key>
-                <false/>
             </dict>
             <key>island_monster_001.png</key>
             <dict>
@@ -315,24 +180,534 @@
                 <key>spriteSourceSize</key>
                 <string>{237,264}</string>
                 <key>textureRect</key>
-                <string>{{956,132},{237,258}}</string>
+                <string>{{241,1680},{237,258}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
-            <key>island_monster_locked_001.png</key>
+            <key>island_new01_001.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
-                <string>{0,3}</string>
+                <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{237,258}</string>
+                <string>{266,266}</string>
                 <key>spriteSourceSize</key>
-                <string>{237,264}</string>
+                <string>{266,266}</string>
                 <key>textureRect</key>
-                <string>{{1194,132},{237,258}}</string>
+                <string>{{1426,525},{266,266}}</string>
                 <key>textureRotated</key>
                 <false/>
+            </dict>
+            <key>island_new02_001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,14}</string>
+                <key>spriteSize</key>
+                <string>{256,288}</string>
+                <key>spriteSourceSize</key>
+                <string>{256,316}</string>
+                <key>textureRect</key>
+                <string>{{575,389},{256,288}}</string>
+                <key>textureRotated</key>
+                <true/>
+            </dict>
+            <key>island_new03_001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,7}</string>
+                <key>spriteSize</key>
+                <string>{256,262}</string>
+                <key>spriteSourceSize</key>
+                <string>{256,276}</string>
+                <key>textureRect</key>
+                <string>{{258,1170},{256,262}}</string>
+                <key>textureRotated</key>
+                <true/>
+            </dict>
+            <key>island_new04_001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,24}</string>
+                <key>spriteSize</key>
+                <string>{256,274}</string>
+                <key>spriteSourceSize</key>
+                <string>{256,322}</string>
+                <key>textureRect</key>
+                <string>{{1693,525},{256,274}}</string>
+                <key>textureRotated</key>
+                <true/>
+            </dict>
+            <key>island_new05_001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{250,272}</string>
+                <key>spriteSourceSize</key>
+                <string>{250,272}</string>
+                <key>textureRect</key>
+                <string>{{1364,1049},{250,272}}</string>
+                <key>textureRotated</key>
+                <true/>
+            </dict>
+            <key>island_new06_001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-7,-11}</string>
+                <key>spriteSize</key>
+                <string>{256,256}</string>
+                <key>spriteSourceSize</key>
+                <string>{270,278}</string>
+                <key>textureRect</key>
+                <string>{{780,1214},{256,256}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>island_new07_001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{9,50}</string>
+                <key>spriteSize</key>
+                <string>{256,364}</string>
+                <key>spriteSourceSize</key>
+                <string>{274,464}</string>
+                <key>textureRect</key>
+                <string>{{1254,1},{256,364}}</string>
+                <key>textureRotated</key>
+                <true/>
+            </dict>
+            <key>island_new08_001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,2}</string>
+                <key>spriteSize</key>
+                <string>{256,272}</string>
+                <key>spriteSourceSize</key>
+                <string>{256,276}</string>
+                <key>textureRect</key>
+                <string>{{1693,782},{256,272}}</string>
+                <key>textureRotated</key>
+                <true/>
+            </dict>
+            <key>island_new09_001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,4}</string>
+                <key>spriteSize</key>
+                <string>{256,276}</string>
+                <key>spriteSourceSize</key>
+                <string>{256,284}</string>
+                <key>textureRect</key>
+                <string>{{1131,772},{256,276}}</string>
+                <key>textureRotated</key>
+                <true/>
+            </dict>
+            <key>island_new10_001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,7}</string>
+                <key>spriteSize</key>
+                <string>{256,292}</string>
+                <key>spriteSourceSize</key>
+                <string>{256,306}</string>
+                <key>textureRect</key>
+                <string>{{1593,268},{256,292}}</string>
+                <key>textureRotated</key>
+                <true/>
+            </dict>
+            <key>island_new11_001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,16}</string>
+                <key>spriteSize</key>
+                <string>{256,292}</string>
+                <key>spriteSourceSize</key>
+                <string>{256,324}</string>
+                <key>textureRect</key>
+                <string>{{1,389},{256,292}}</string>
+                <key>textureRotated</key>
+                <true/>
+            </dict>
+            <key>island_new12_001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,4}</string>
+                <key>spriteSize</key>
+                <string>{256,268}</string>
+                <key>spriteSourceSize</key>
+                <string>{256,276}</string>
+                <key>textureRect</key>
+                <string>{{1408,792},{256,268}}</string>
+                <key>textureRotated</key>
+                <true/>
+            </dict>
+            <key>island_new13_001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,16}</string>
+                <key>spriteSize</key>
+                <string>{256,258}</string>
+                <key>spriteSourceSize</key>
+                <string>{256,290}</string>
+                <key>textureRect</key>
+                <string>{{1,1196},{256,258}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>island_new14_001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{256,278}</string>
+                <key>spriteSourceSize</key>
+                <string>{256,278}</string>
+                <key>textureRect</key>
+                <string>{{539,913},{256,278}}</string>
+                <key>textureRotated</key>
+                <true/>
+            </dict>
+            <key>island_new15_001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,4}</string>
+                <key>spriteSize</key>
+                <string>{256,282}</string>
+                <key>spriteSourceSize</key>
+                <string>{256,290}</string>
+                <key>textureRect</key>
+                <string>{{1143,515},{256,282}}</string>
+                <key>textureRotated</key>
+                <true/>
+            </dict>
+            <key>island_new16_001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,34}</string>
+                <key>spriteSize</key>
+                <string>{256,294}</string>
+                <key>spriteSourceSize</key>
+                <string>{256,362}</string>
+                <key>textureRect</key>
+                <string>{{1207,258},{256,294}}</string>
+                <key>textureRotated</key>
+                <true/>
+            </dict>
+            <key>island_new17_001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,40}</string>
+                <key>spriteSize</key>
+                <string>{256,304}</string>
+                <key>spriteSourceSize</key>
+                <string>{256,384}</string>
+                <key>textureRect</key>
+                <string>{{950,132},{256,304}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>island_new18_001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{256,266}</string>
+                <key>spriteSourceSize</key>
+                <string>{256,266}</string>
+                <key>textureRect</key>
+                <string>{{1097,1029},{256,266}}</string>
+                <key>textureRotated</key>
+                <true/>
+            </dict>
+            <key>island_new19_001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,-12}</string>
+                <key>spriteSize</key>
+                <string>{256,284}</string>
+                <key>spriteSourceSize</key>
+                <string>{256,308}</string>
+                <key>textureRect</key>
+                <string>{{282,656},{256,284}}</string>
+                <key>textureRotated</key>
+                <true/>
+            </dict>
+            <key>island_new20_001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,12}</string>
+                <key>spriteSize</key>
+                <string>{256,314}</string>
+                <key>spriteSourceSize</key>
+                <string>{256,338}</string>
+                <key>textureRect</key>
+                <string>{{322,132},{256,314}}</string>
+                <key>textureRotated</key>
+                <true/>
+            </dict>
+            <key>island_new21_001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,44}</string>
+                <key>spriteSize</key>
+                <string>{256,312}</string>
+                <key>spriteSourceSize</key>
+                <string>{256,400}</string>
+                <key>textureRect</key>
+                <string>{{637,132},{256,312}}</string>
+                <key>textureRotated</key>
+                <true/>
+            </dict>
+            <key>island_new22_001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,21}</string>
+                <key>spriteSize</key>
+                <string>{256,266}</string>
+                <key>spriteSourceSize</key>
+                <string>{256,308}</string>
+                <key>textureRect</key>
+                <string>{{1677,1039},{256,266}}</string>
+                <key>textureRotated</key>
+                <true/>
+            </dict>
+            <key>island_new23_001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,47}</string>
+                <key>spriteSize</key>
+                <string>{256,320}</string>
+                <key>spriteSourceSize</key>
+                <string>{256,414}</string>
+                <key>textureRect</key>
+                <string>{{1,132},{256,320}}</string>
+                <key>textureRotated</key>
+                <true/>
+            </dict>
+            <key>island_new24_001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-5,24}</string>
+                <key>spriteSize</key>
+                <string>{266,274}</string>
+                <key>spriteSourceSize</key>
+                <string>{276,322}</string>
+                <key>textureRect</key>
+                <string>{{575,646},{266,274}}</string>
+                <key>textureRotated</key>
+                <true/>
+            </dict>
+            <key>island_new25_001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,28}</string>
+                <key>spriteSize</key>
+                <string>{256,280}</string>
+                <key>spriteSourceSize</key>
+                <string>{256,336}</string>
+                <key>textureRect</key>
+                <string>{{850,702},{256,280}}</string>
+                <key>textureRotated</key>
+                <true/>
+            </dict>
+            <key>island_new26_001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,19}</string>
+                <key>spriteSize</key>
+                <string>{256,264}</string>
+                <key>spriteSourceSize</key>
+                <string>{256,302}</string>
+                <key>textureRect</key>
+                <string>{{1637,1296},{256,264}}</string>
+                <key>textureRotated</key>
+                <true/>
+            </dict>
+            <key>island_new27_001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,28}</string>
+                <key>spriteSize</key>
+                <string>{256,280}</string>
+                <key>spriteSourceSize</key>
+                <string>{256,336}</string>
+                <key>textureRect</key>
+                <string>{{258,913},{256,280}}</string>
+                <key>textureRotated</key>
+                <true/>
+            </dict>
+            <key>island_new28_001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-5,58}</string>
+                <key>spriteSize</key>
+                <string>{266,342}</string>
+                <key>spriteSourceSize</key>
+                <string>{276,458}</string>
+                <key>textureRect</key>
+                <string>{{1619,1},{266,342}}</string>
+                <key>textureRotated</key>
+                <true/>
+            </dict>
+            <key>island_new29_001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,13}</string>
+                <key>spriteSize</key>
+                <string>{256,252}</string>
+                <key>spriteSourceSize</key>
+                <string>{256,278}</string>
+                <key>textureRect</key>
+                <string>{{258,1427},{256,252}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>island_new30_001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,16}</string>
+                <key>spriteSize</key>
+                <string>{256,258}</string>
+                <key>spriteSourceSize</key>
+                <string>{256,290}</string>
+                <key>textureRect</key>
+                <string>{{521,1170},{256,258}}</string>
+                <key>textureRotated</key>
+                <true/>
+            </dict>
+            <key>island_new31_001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,27}</string>
+                <key>spriteSize</key>
+                <string>{264,280}</string>
+                <key>spriteSourceSize</key>
+                <string>{264,334}</string>
+                <key>textureRect</key>
+                <string>{{1,646},{264,280}}</string>
+                <key>textureRotated</key>
+                <true/>
+            </dict>
+            <key>island_new32_001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,27}</string>
+                <key>spriteSize</key>
+                <string>{264,278}</string>
+                <key>spriteSourceSize</key>
+                <string>{264,332}</string>
+                <key>textureRect</key>
+                <string>{{864,437},{264,278}}</string>
+                <key>textureRotated</key>
+                <true/>
+            </dict>
+            <key>island_new33_001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,27}</string>
+                <key>spriteSize</key>
+                <string>{266,280}</string>
+                <key>spriteSourceSize</key>
+                <string>{266,334}</string>
+                <key>textureRect</key>
+                <string>{{294,389},{266,280}}</string>
+                <key>textureRotated</key>
+                <true/>
+            </dict>
+            <key>island_new34_001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,30}</string>
+                <key>spriteSize</key>
+                <string>{256,284}</string>
+                <key>spriteSourceSize</key>
+                <string>{256,344}</string>
+                <key>textureRect</key>
+                <string>{{1,911},{256,284}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>island_new35_001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,27}</string>
+                <key>spriteSize</key>
+                <string>{254,278}</string>
+                <key>spriteSourceSize</key>
+                <string>{254,332}</string>
+                <key>textureRect</key>
+                <string>{{818,959},{254,278}}</string>
+                <key>textureRotated</key>
+                <true/>
             </dict>
             <key>island_poison_001.png</key>
             <dict>
@@ -345,24 +720,9 @@
                 <key>spriteSourceSize</key>
                 <string>{236,262}</string>
                 <key>textureRect</key>
-                <string>{{726,884},{236,246}}</string>
+                <string>{{749,1709},{236,246}}</string>
                 <key>textureRotated</key>
                 <true/>
-            </dict>
-            <key>island_poison_locked_001.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,8}</string>
-                <key>spriteSize</key>
-                <string>{236,246}</string>
-                <key>spriteSourceSize</key>
-                <string>{236,262}</string>
-                <key>textureRect</key>
-                <string>{{238,1166},{236,246}}</string>
-                <key>textureRotated</key>
-                <false/>
             </dict>
             <key>island_shadow_001.png</key>
             <dict>
@@ -375,24 +735,9 @@
                 <key>spriteSourceSize</key>
                 <string>{236,234}</string>
                 <key>textureRect</key>
-                <string>{{1,1224},{236,216}}</string>
+                <string>{{1234,1776},{236,216}}</string>
                 <key>textureRotated</key>
                 <false/>
-            </dict>
-            <key>island_shadow_locked_001.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,-9}</string>
-                <key>spriteSize</key>
-                <string>{236,216}</string>
-                <key>spriteSourceSize</key>
-                <string>{236,234}</string>
-                <key>textureRect</key>
-                <string>{{1228,391},{236,216}}</string>
-                <key>textureRotated</key>
-                <true/>
             </dict>
             <key>island_spike_001.png</key>
             <dict>
@@ -405,24 +750,9 @@
                 <key>spriteSourceSize</key>
                 <string>{237,286}</string>
                 <key>textureRect</key>
-                <string>{{1,132},{237,274}}</string>
+                <string>{{1037,1286},{237,274}}</string>
                 <key>textureRotated</key>
-                <false/>
-            </dict>
-            <key>island_spike_locked_001.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,6}</string>
-                <key>spriteSize</key>
-                <string>{237,274}</string>
-                <key>spriteSourceSize</key>
-                <string>{237,286}</string>
-                <key>textureRect</key>
-                <string>{{1,407},{237,274}}</string>
-                <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
             <key>island_time_001.png</key>
             <dict>
@@ -435,24 +765,9 @@
                 <key>spriteSourceSize</key>
                 <string>{237,274}</string>
                 <key>textureRect</key>
-                <string>{{476,397},{237,256}}</string>
+                <string>{{1,1720},{237,256}}</string>
                 <key>textureRotated</key>
-                <true/>
-            </dict>
-            <key>island_time_locked_001.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,9}</string>
-                <key>spriteSize</key>
-                <string>{237,256}</string>
-                <key>spriteSourceSize</key>
-                <string>{237,274}</string>
-                <key>textureRect</key>
-                <string>{{971,391},{237,256}}</string>
-                <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>theLostGauntletsLabel_001.png</key>
             <dict>
@@ -475,15 +790,15 @@
             <key>format</key>
             <integer>3</integer>
             <key>pixelFormat</key>
-            <string>RGBA4444</string>
+            <string>RGBA8888</string>
             <key>premultiplyAlpha</key>
             <false/>
             <key>realTextureFileName</key>
             <string>GauntletSheet-uhd.png</string>
             <key>size</key>
-            <string>{1446,1446}</string>
+            <string>{1993,1993}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:18cb72e15a20b070c79c28c979e54888:968095ae74b2d03988f06d3281b2ae19:bf5c0e6986514bcfaede4d760b7bd03b$</string>
+            <string>$TexturePacker:SmartUpdate:bbeb2dcbedb97aabd1da177181565c93:7ac7e473519c254dd93fcbc9bb5fd27e:e43528e55c10f2683a103180db48aec4$</string>
             <key>textureFileName</key>
             <string>GauntletSheet-uhd.png</string>
         </dict>
